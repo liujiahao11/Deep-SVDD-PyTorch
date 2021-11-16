@@ -1,0 +1,366 @@
+2021-11-16 18:34:04,678 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2021-11-16 18:34:04,679 - root - INFO - Data path is ../data.
+2021-11-16 18:34:04,679 - root - INFO - Export path is ../log/mnist_test.
+2021-11-16 18:34:04,679 - root - INFO - Dataset: mnist
+2021-11-16 18:34:04,679 - root - INFO - Normal class: 3
+2021-11-16 18:34:04,679 - root - INFO - Network: mnist_LeNet
+2021-11-16 18:34:04,679 - root - INFO - Deep SVDD objective: one-class
+2021-11-16 18:34:04,679 - root - INFO - Nu-paramerter: 0.10
+2021-11-16 18:34:04,719 - root - INFO - Computation device: cuda
+2021-11-16 18:34:04,720 - root - INFO - Number of dataloader workers: 0
+2021-11-16 18:34:10,195 - root - INFO - Pretraining: True
+2021-11-16 18:34:10,196 - root - INFO - Pretraining optimizer: adam
+2021-11-16 18:34:10,196 - root - INFO - Pretraining learning rate: 0.0001
+2021-11-16 18:34:10,196 - root - INFO - Pretraining epochs: 150
+2021-11-16 18:34:10,196 - root - INFO - Pretraining learning rate scheduler milestones: (50,)
+2021-11-16 18:34:10,196 - root - INFO - Pretraining batch size: 200
+2021-11-16 18:34:10,196 - root - INFO - Pretraining weight decay: 0.0005
+2021-11-16 18:34:18,217 - root - INFO - Starting pretraining...
+2021-11-16 18:34:20,347 - root - INFO -   Epoch 1/150	 Time: 2.129	 Loss: 109.26277825
+2021-11-16 18:34:22,655 - root - INFO -   Epoch 2/150	 Time: 2.307	 Loss: 75.90748498
+2021-11-16 18:34:24,740 - root - INFO -   Epoch 3/150	 Time: 2.086	 Loss: 54.18495744
+2021-11-16 18:34:26,835 - root - INFO -   Epoch 4/150	 Time: 2.094	 Loss: 39.51887094
+2021-11-16 18:34:29,107 - root - INFO -   Epoch 5/150	 Time: 2.272	 Loss: 30.51147861
+2021-11-16 18:34:34,102 - root - INFO -   Epoch 6/150	 Time: 4.990	 Loss: 24.78426589
+2021-11-16 18:35:12,637 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2021-11-16 18:35:12,637 - root - INFO - Data path is ../data.
+2021-11-16 18:35:12,637 - root - INFO - Export path is ../log/mnist_test.
+2021-11-16 18:35:12,637 - root - INFO - Dataset: mnist
+2021-11-16 18:35:12,637 - root - INFO - Normal class: 3
+2021-11-16 18:35:12,637 - root - INFO - Network: mnist_LeNet
+2021-11-16 18:35:12,637 - root - INFO - Deep SVDD objective: one-class
+2021-11-16 18:35:12,637 - root - INFO - Nu-paramerter: 0.10
+2021-11-16 18:35:12,678 - root - INFO - Computation device: cuda
+2021-11-16 18:35:12,678 - root - INFO - Number of dataloader workers: 0
+2021-11-16 18:35:12,726 - root - INFO - Pretraining: True
+2021-11-16 18:35:12,726 - root - INFO - Pretraining optimizer: adam
+2021-11-16 18:35:12,727 - root - INFO - Pretraining learning rate: 0.0001
+2021-11-16 18:35:12,727 - root - INFO - Pretraining epochs: 150
+2021-11-16 18:35:12,727 - root - INFO - Pretraining learning rate scheduler milestones: (50,)
+2021-11-16 18:35:12,727 - root - INFO - Pretraining batch size: 200
+2021-11-16 18:35:12,727 - root - INFO - Pretraining weight decay: 0.0005
+2021-11-16 18:35:20,167 - root - INFO - Starting pretraining...
+2021-11-16 18:35:22,014 - root - INFO -   Epoch 1/150	 Time: 1.846	 Loss: 171.45385742
+2021-11-16 18:35:23,882 - root - INFO -   Epoch 2/150	 Time: 1.868	 Loss: 130.46922794
+2021-11-16 18:35:25,932 - root - INFO -   Epoch 3/150	 Time: 2.050	 Loss: 94.72893057
+2021-11-16 18:35:27,910 - root - INFO -   Epoch 4/150	 Time: 1.977	 Loss: 71.61579784
+2021-11-16 18:35:29,776 - root - INFO -   Epoch 5/150	 Time: 1.866	 Loss: 55.07808439
+2021-11-16 18:35:31,712 - root - INFO -   Epoch 6/150	 Time: 1.936	 Loss: 42.46604649
+2021-11-16 18:35:36,466 - root - INFO -   Epoch 7/150	 Time: 4.753	 Loss: 34.46776815
+2021-11-16 18:35:38,693 - root - INFO -   Epoch 8/150	 Time: 2.226	 Loss: 29.00169163
+2021-11-16 18:35:40,667 - root - INFO -   Epoch 9/150	 Time: 1.974	 Loss: 24.96931704
+2021-11-16 18:35:42,603 - root - INFO -   Epoch 10/150	 Time: 1.935	 Loss: 21.94582859
+2021-11-16 18:35:44,423 - root - INFO -   Epoch 11/150	 Time: 1.820	 Loss: 19.69717801
+2021-11-16 18:35:46,437 - root - INFO -   Epoch 12/150	 Time: 2.014	 Loss: 17.93485463
+2021-11-16 18:35:48,496 - root - INFO -   Epoch 13/150	 Time: 2.059	 Loss: 16.49294090
+2021-11-16 18:35:53,045 - root - INFO -   Epoch 14/150	 Time: 4.548	 Loss: 15.29109752
+2021-11-16 18:35:54,959 - root - INFO -   Epoch 15/150	 Time: 1.914	 Loss: 14.28105308
+2021-11-16 18:35:56,888 - root - INFO -   Epoch 16/150	 Time: 1.928	 Loss: 13.41027401
+2021-11-16 18:35:58,831 - root - INFO -   Epoch 17/150	 Time: 1.943	 Loss: 12.63934286
+2021-11-16 18:36:00,616 - root - INFO -   Epoch 18/150	 Time: 1.785	 Loss: 11.95904412
+2021-11-16 18:36:02,384 - root - INFO -   Epoch 19/150	 Time: 1.768	 Loss: 11.35306389
+2021-11-16 18:36:04,165 - root - INFO -   Epoch 20/150	 Time: 1.780	 Loss: 10.80184903
+2021-11-16 18:36:09,056 - root - INFO -   Epoch 21/150	 Time: 4.890	 Loss: 10.29772872
+2021-11-16 18:36:10,880 - root - INFO -   Epoch 22/150	 Time: 1.824	 Loss: 9.83744424
+2021-11-16 18:36:12,725 - root - INFO -   Epoch 23/150	 Time: 1.845	 Loss: 9.40908146
+2021-11-16 18:36:14,524 - root - INFO -   Epoch 24/150	 Time: 1.799	 Loss: 9.00975649
+2021-11-16 18:36:16,315 - root - INFO -   Epoch 25/150	 Time: 1.790	 Loss: 8.63548931
+2021-11-16 18:36:18,174 - root - INFO -   Epoch 26/150	 Time: 1.859	 Loss: 8.28169254
+2021-11-16 18:36:19,991 - root - INFO -   Epoch 27/150	 Time: 1.816	 Loss: 7.96591174
+2021-11-16 18:36:24,624 - root - INFO -   Epoch 28/150	 Time: 4.633	 Loss: 7.67370261
+2021-11-16 18:36:26,631 - root - INFO -   Epoch 29/150	 Time: 2.006	 Loss: 7.41794909
+2021-11-16 18:36:28,690 - root - INFO -   Epoch 30/150	 Time: 2.059	 Loss: 7.18890436
+2021-11-16 18:36:30,516 - root - INFO -   Epoch 31/150	 Time: 1.826	 Loss: 6.97939453
+2021-11-16 18:36:32,613 - root - INFO -   Epoch 32/150	 Time: 2.096	 Loss: 6.79191854
+2021-11-16 18:36:34,534 - root - INFO -   Epoch 33/150	 Time: 1.921	 Loss: 6.62176277
+2021-11-16 18:36:36,404 - root - INFO -   Epoch 34/150	 Time: 1.870	 Loss: 6.47056575
+2021-11-16 18:36:40,527 - root - INFO -   Epoch 35/150	 Time: 4.123	 Loss: 6.32820420
+2021-11-16 18:36:42,625 - root - INFO -   Epoch 36/150	 Time: 2.098	 Loss: 6.19661422
+2021-11-16 18:36:44,537 - root - INFO -   Epoch 37/150	 Time: 1.912	 Loss: 6.07661824
+2021-11-16 18:36:46,382 - root - INFO -   Epoch 38/150	 Time: 1.844	 Loss: 5.96289978
+2021-11-16 18:36:48,168 - root - INFO -   Epoch 39/150	 Time: 1.786	 Loss: 5.85446338
+2021-11-16 18:36:49,935 - root - INFO -   Epoch 40/150	 Time: 1.767	 Loss: 5.75008368
+2021-11-16 18:36:51,658 - root - INFO -   Epoch 41/150	 Time: 1.723	 Loss: 5.64335560
+2021-11-16 18:36:54,379 - root - INFO -   Epoch 42/150	 Time: 2.721	 Loss: 5.54556831
+2021-11-16 18:36:58,239 - root - INFO -   Epoch 43/150	 Time: 3.859	 Loss: 5.44672048
+2021-11-16 18:37:00,165 - root - INFO -   Epoch 44/150	 Time: 1.926	 Loss: 5.36282258
+2021-11-16 18:37:02,208 - root - INFO -   Epoch 45/150	 Time: 2.043	 Loss: 5.28018041
+2021-11-16 18:37:04,151 - root - INFO -   Epoch 46/150	 Time: 1.942	 Loss: 5.20474408
+2021-11-16 18:37:05,883 - root - INFO -   Epoch 47/150	 Time: 1.733	 Loss: 5.13727534
+2021-11-16 18:37:07,654 - root - INFO -   Epoch 48/150	 Time: 1.770	 Loss: 5.07152528
+2021-11-16 18:37:10,660 - root - INFO -   Epoch 49/150	 Time: 3.007	 Loss: 5.01035078
+2021-11-16 18:37:14,295 - root - INFO -   Epoch 50/150	 Time: 3.634	 Loss: 4.97649473
+2021-11-16 18:37:14,295 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2021-11-16 18:37:16,309 - root - INFO -   Epoch 51/150	 Time: 2.014	 Loss: 4.97162724
+2021-11-16 18:37:18,213 - root - INFO -   Epoch 52/150	 Time: 1.903	 Loss: 4.96430763
+2021-11-16 18:37:20,226 - root - INFO -   Epoch 53/150	 Time: 2.013	 Loss: 4.96225303
+2021-11-16 18:37:22,063 - root - INFO -   Epoch 54/150	 Time: 1.837	 Loss: 4.95304140
+2021-11-16 18:37:23,843 - root - INFO -   Epoch 55/150	 Time: 1.779	 Loss: 4.94917060
+2021-11-16 18:37:27,763 - root - INFO -   Epoch 56/150	 Time: 3.920	 Loss: 4.93927016
+2021-11-16 18:37:30,334 - root - INFO -   Epoch 57/150	 Time: 2.570	 Loss: 4.93760704
+2021-11-16 18:37:32,116 - root - INFO -   Epoch 58/150	 Time: 1.783	 Loss: 4.92957258
+2021-11-16 18:37:33,915 - root - INFO -   Epoch 59/150	 Time: 1.798	 Loss: 4.91866813
+2021-11-16 18:37:35,754 - root - INFO -   Epoch 60/150	 Time: 1.838	 Loss: 4.91429164
+2021-11-16 18:37:37,638 - root - INFO -   Epoch 61/150	 Time: 1.884	 Loss: 4.90920448
+2021-11-16 18:37:39,438 - root - INFO -   Epoch 62/150	 Time: 1.799	 Loss: 4.90366360
+2021-11-16 18:37:41,253 - root - INFO -   Epoch 63/150	 Time: 1.816	 Loss: 4.89588265
+2021-11-16 18:37:45,881 - root - INFO -   Epoch 64/150	 Time: 4.628	 Loss: 4.89103334
+2021-11-16 18:37:48,043 - root - INFO -   Epoch 65/150	 Time: 2.162	 Loss: 4.88444305
+2021-11-16 18:37:49,800 - root - INFO -   Epoch 66/150	 Time: 1.757	 Loss: 4.87987438
+2021-11-16 18:37:51,587 - root - INFO -   Epoch 67/150	 Time: 1.787	 Loss: 4.87060095
+2021-11-16 18:37:53,392 - root - INFO -   Epoch 68/150	 Time: 1.804	 Loss: 4.86258708
+2021-11-16 18:37:55,138 - root - INFO -   Epoch 69/150	 Time: 1.746	 Loss: 4.85776355
+2021-11-16 18:37:56,876 - root - INFO -   Epoch 70/150	 Time: 1.737	 Loss: 4.85235325
+2021-11-16 18:38:01,363 - root - INFO -   Epoch 71/150	 Time: 4.487	 Loss: 4.84566213
+2021-11-16 18:38:03,156 - root - INFO -   Epoch 72/150	 Time: 1.793	 Loss: 4.83666069
+2021-11-16 18:38:04,932 - root - INFO -   Epoch 73/150	 Time: 1.776	 Loss: 4.83129215
+2021-11-16 18:38:06,811 - root - INFO -   Epoch 74/150	 Time: 1.879	 Loss: 4.82419846
+2021-11-16 18:38:08,596 - root - INFO -   Epoch 75/150	 Time: 1.785	 Loss: 4.81478039
+2021-11-16 18:38:10,326 - root - INFO -   Epoch 76/150	 Time: 1.729	 Loss: 4.81025822
+2021-11-16 18:38:12,143 - root - INFO -   Epoch 77/150	 Time: 1.817	 Loss: 4.80204804
+2021-11-16 18:38:16,786 - root - INFO -   Epoch 78/150	 Time: 4.642	 Loss: 4.79564295
+2021-11-16 18:38:18,921 - root - INFO -   Epoch 79/150	 Time: 2.135	 Loss: 4.78893955
+2021-11-16 18:38:20,820 - root - INFO -   Epoch 80/150	 Time: 1.899	 Loss: 4.78075795
+2021-11-16 18:38:22,647 - root - INFO -   Epoch 81/150	 Time: 1.827	 Loss: 4.77611969
+2021-11-16 18:38:24,443 - root - INFO -   Epoch 82/150	 Time: 1.796	 Loss: 4.76741795
+2021-11-16 18:38:26,296 - root - INFO -   Epoch 83/150	 Time: 1.852	 Loss: 4.76128601
+2021-11-16 18:38:28,034 - root - INFO -   Epoch 84/150	 Time: 1.738	 Loss: 4.75316309
+2021-11-16 18:38:31,573 - root - INFO -   Epoch 85/150	 Time: 3.539	 Loss: 4.74692185
+2021-11-16 18:38:34,392 - root - INFO -   Epoch 86/150	 Time: 2.818	 Loss: 4.73739352
+2021-11-16 18:38:36,257 - root - INFO -   Epoch 87/150	 Time: 1.865	 Loss: 4.73170014
+2021-11-16 18:38:38,118 - root - INFO -   Epoch 88/150	 Time: 1.861	 Loss: 4.72489805
+2021-11-16 18:38:40,040 - root - INFO -   Epoch 89/150	 Time: 1.922	 Loss: 4.71626645
+2021-11-16 18:38:41,853 - root - INFO -   Epoch 90/150	 Time: 1.812	 Loss: 4.70775129
+2021-11-16 18:38:43,597 - root - INFO -   Epoch 91/150	 Time: 1.744	 Loss: 4.70344928
+2021-11-16 18:38:45,365 - root - INFO -   Epoch 92/150	 Time: 1.767	 Loss: 4.69412145
+2021-11-16 18:38:50,148 - root - INFO -   Epoch 93/150	 Time: 4.783	 Loss: 4.68703834
+2021-11-16 18:38:52,203 - root - INFO -   Epoch 94/150	 Time: 2.055	 Loss: 4.68320522
+2021-11-16 18:38:54,069 - root - INFO -   Epoch 95/150	 Time: 1.865	 Loss: 4.67175104
+2021-11-16 18:38:55,859 - root - INFO -   Epoch 96/150	 Time: 1.790	 Loss: 4.66526816
+2021-11-16 18:38:57,634 - root - INFO -   Epoch 97/150	 Time: 1.775	 Loss: 4.65391190
+2021-11-16 18:38:59,524 - root - INFO -   Epoch 98/150	 Time: 1.890	 Loss: 4.65116593
+2021-11-16 18:39:01,400 - root - INFO -   Epoch 99/150	 Time: 1.876	 Loss: 4.64425325
+2021-11-16 18:39:06,073 - root - INFO -   Epoch 100/150	 Time: 4.672	 Loss: 4.63206733
+2021-11-16 18:39:08,055 - root - INFO -   Epoch 101/150	 Time: 1.982	 Loss: 4.62730542
+2021-11-16 18:39:09,951 - root - INFO -   Epoch 102/150	 Time: 1.895	 Loss: 4.62039092
+2021-11-16 18:39:11,766 - root - INFO -   Epoch 103/150	 Time: 1.815	 Loss: 4.61086947
+2021-11-16 18:39:13,696 - root - INFO -   Epoch 104/150	 Time: 1.930	 Loss: 4.60515790
+2021-11-16 18:39:15,429 - root - INFO -   Epoch 105/150	 Time: 1.733	 Loss: 4.59688762
+2021-11-16 18:39:17,329 - root - INFO -   Epoch 106/150	 Time: 1.900	 Loss: 4.59064914
+2021-11-16 18:39:21,892 - root - INFO -   Epoch 107/150	 Time: 4.563	 Loss: 4.58292543
+2021-11-16 18:39:24,082 - root - INFO -   Epoch 108/150	 Time: 2.190	 Loss: 4.57563248
+2021-11-16 18:39:25,927 - root - INFO -   Epoch 109/150	 Time: 1.845	 Loss: 4.56515198
+2021-11-16 18:39:27,812 - root - INFO -   Epoch 110/150	 Time: 1.885	 Loss: 4.55750718
+2021-11-16 18:39:29,642 - root - INFO -   Epoch 111/150	 Time: 1.830	 Loss: 4.55054339
+2021-11-16 18:39:31,463 - root - INFO -   Epoch 112/150	 Time: 1.821	 Loss: 4.54201005
+2021-11-16 18:39:33,351 - root - INFO -   Epoch 113/150	 Time: 1.888	 Loss: 4.53536987
+2021-11-16 18:39:38,529 - root - INFO -   Epoch 114/150	 Time: 5.178	 Loss: 4.52600118
+2021-11-16 18:39:40,469 - root - INFO -   Epoch 115/150	 Time: 1.940	 Loss: 4.52047373
+2021-11-16 18:39:42,408 - root - INFO -   Epoch 116/150	 Time: 1.938	 Loss: 4.50984978
+2021-11-16 18:39:44,278 - root - INFO -   Epoch 117/150	 Time: 1.870	 Loss: 4.50294976
+2021-11-16 18:39:46,119 - root - INFO -   Epoch 118/150	 Time: 1.841	 Loss: 4.49255603
+2021-11-16 18:39:47,871 - root - INFO -   Epoch 119/150	 Time: 1.752	 Loss: 4.48463048
+2021-11-16 18:39:49,692 - root - INFO -   Epoch 120/150	 Time: 1.821	 Loss: 4.47530905
+2021-11-16 18:39:54,517 - root - INFO -   Epoch 121/150	 Time: 4.825	 Loss: 4.46852149
+2021-11-16 18:39:56,568 - root - INFO -   Epoch 122/150	 Time: 2.051	 Loss: 4.46187258
+2021-11-16 18:39:58,456 - root - INFO -   Epoch 123/150	 Time: 1.888	 Loss: 4.45377801
+2021-11-16 18:40:00,356 - root - INFO -   Epoch 124/150	 Time: 1.899	 Loss: 4.44572759
+2021-11-16 18:40:02,247 - root - INFO -   Epoch 125/150	 Time: 1.891	 Loss: 4.43795441
+2021-11-16 18:40:04,254 - root - INFO -   Epoch 126/150	 Time: 2.007	 Loss: 4.43333557
+2021-11-16 18:40:08,956 - root - INFO -   Epoch 127/150	 Time: 4.702	 Loss: 4.41873143
+2021-11-16 18:40:11,330 - root - INFO -   Epoch 128/150	 Time: 2.373	 Loss: 4.41137485
+2021-11-16 18:40:13,139 - root - INFO -   Epoch 129/150	 Time: 1.809	 Loss: 4.40520643
+2021-11-16 18:40:15,066 - root - INFO -   Epoch 130/150	 Time: 1.927	 Loss: 4.39711786
+2021-11-16 18:40:16,858 - root - INFO -   Epoch 131/150	 Time: 1.792	 Loss: 4.39063011
+2021-11-16 18:40:18,602 - root - INFO -   Epoch 132/150	 Time: 1.744	 Loss: 4.38027197
+2021-11-16 18:40:20,316 - root - INFO -   Epoch 133/150	 Time: 1.714	 Loss: 4.37316442
+2021-11-16 18:40:24,865 - root - INFO -   Epoch 134/150	 Time: 4.548	 Loss: 4.36425640
+2021-11-16 18:40:26,755 - root - INFO -   Epoch 135/150	 Time: 1.890	 Loss: 4.35656320
+2021-11-16 18:40:28,711 - root - INFO -   Epoch 136/150	 Time: 1.955	 Loss: 4.34848365
+2021-11-16 18:40:30,559 - root - INFO -   Epoch 137/150	 Time: 1.848	 Loss: 4.34133244
+2021-11-16 18:40:32,420 - root - INFO -   Epoch 138/150	 Time: 1.861	 Loss: 4.33344735
+2021-11-16 18:40:34,194 - root - INFO -   Epoch 139/150	 Time: 1.774	 Loss: 4.32275475
+2021-11-16 18:40:35,948 - root - INFO -   Epoch 140/150	 Time: 1.753	 Loss: 4.31501935
+2021-11-16 18:40:37,766 - root - INFO -   Epoch 141/150	 Time: 1.818	 Loss: 4.30854830
+2021-11-16 18:40:42,585 - root - INFO -   Epoch 142/150	 Time: 4.819	 Loss: 4.29778596
+2021-11-16 18:40:44,422 - root - INFO -   Epoch 143/150	 Time: 1.837	 Loss: 4.29077659
+2021-11-16 18:40:46,284 - root - INFO -   Epoch 144/150	 Time: 1.862	 Loss: 4.28209528
+2021-11-16 18:40:48,078 - root - INFO -   Epoch 145/150	 Time: 1.793	 Loss: 4.27521919
+2021-11-16 18:40:49,860 - root - INFO -   Epoch 146/150	 Time: 1.782	 Loss: 4.26888912
+2021-11-16 18:40:51,630 - root - INFO -   Epoch 147/150	 Time: 1.770	 Loss: 4.25676896
+2021-11-16 18:40:53,354 - root - INFO -   Epoch 148/150	 Time: 1.723	 Loss: 4.24804960
+2021-11-16 18:40:57,910 - root - INFO -   Epoch 149/150	 Time: 4.556	 Loss: 4.23961619
+2021-11-16 18:41:00,183 - root - INFO -   Epoch 150/150	 Time: 2.273	 Loss: 4.23558686
+2021-11-16 18:41:00,183 - root - INFO - Pretraining time: 340.016
+2021-11-16 18:41:00,183 - root - INFO - Finished pretraining.
+2021-11-16 18:41:00,184 - root - INFO - Testing autoencoder...
+2021-11-16 18:41:02,952 - root - INFO - Test set Loss: 6.53357277
+2021-11-16 18:41:02,960 - root - INFO - Test set AUC: 85.69%
+2021-11-16 18:41:02,960 - root - INFO - Autoencoder testing time: 2.775
+2021-11-16 18:41:02,960 - root - INFO - Finished testing autoencoder.
+2021-11-16 18:41:02,961 - root - INFO - Training optimizer: adam
+2021-11-16 18:41:02,961 - root - INFO - Training learning rate: 0.0001
+2021-11-16 18:41:02,961 - root - INFO - Training epochs: 150
+2021-11-16 18:41:02,961 - root - INFO - Training learning rate scheduler milestones: (50,)
+2021-11-16 18:41:02,961 - root - INFO - Training batch size: 200
+2021-11-16 18:41:02,961 - root - INFO - Training weight decay: 5e-07
+2021-11-16 18:41:02,962 - root - INFO - Initializing center c...
+2021-11-16 18:41:04,620 - root - INFO - Center c initialized.
+2021-11-16 18:41:04,621 - root - INFO - Starting training...
+2021-11-16 18:41:06,404 - root - INFO -   Epoch 1/150	 Time: 1.783	 Loss: 1.36185184
+2021-11-16 18:41:08,167 - root - INFO -   Epoch 2/150	 Time: 1.762	 Loss: 0.80506066
+2021-11-16 18:41:10,712 - root - INFO -   Epoch 3/150	 Time: 2.545	 Loss: 0.52068036
+2021-11-16 18:41:14,905 - root - INFO -   Epoch 4/150	 Time: 4.192	 Loss: 0.36537753
+2021-11-16 18:41:16,728 - root - INFO -   Epoch 5/150	 Time: 1.823	 Loss: 0.27291220
+2021-11-16 18:41:18,478 - root - INFO -   Epoch 6/150	 Time: 1.750	 Loss: 0.21568397
+2021-11-16 18:41:20,269 - root - INFO -   Epoch 7/150	 Time: 1.791	 Loss: 0.17697627
+2021-11-16 18:41:22,073 - root - INFO -   Epoch 8/150	 Time: 1.804	 Loss: 0.14918413
+2021-11-16 18:41:23,819 - root - INFO -   Epoch 9/150	 Time: 1.746	 Loss: 0.13019758
+2021-11-16 18:41:25,533 - root - INFO -   Epoch 10/150	 Time: 1.713	 Loss: 0.11525720
+2021-11-16 18:41:30,392 - root - INFO -   Epoch 11/150	 Time: 4.859	 Loss: 0.10448485
+2021-11-16 18:41:32,356 - root - INFO -   Epoch 12/150	 Time: 1.964	 Loss: 0.09717744
+2021-11-16 18:41:34,345 - root - INFO -   Epoch 13/150	 Time: 1.989	 Loss: 0.08756142
+2021-11-16 18:41:36,073 - root - INFO -   Epoch 14/150	 Time: 1.728	 Loss: 0.07958023
+2021-11-16 18:41:37,763 - root - INFO -   Epoch 15/150	 Time: 1.689	 Loss: 0.07423669
+2021-11-16 18:41:39,493 - root - INFO -   Epoch 16/150	 Time: 1.730	 Loss: 0.07049484
+2021-11-16 18:41:41,287 - root - INFO -   Epoch 17/150	 Time: 1.794	 Loss: 0.06585386
+2021-11-16 18:41:45,855 - root - INFO -   Epoch 18/150	 Time: 4.568	 Loss: 0.06068716
+2021-11-16 18:41:47,840 - root - INFO -   Epoch 19/150	 Time: 1.985	 Loss: 0.05816147
+2021-11-16 18:41:49,611 - root - INFO -   Epoch 20/150	 Time: 1.771	 Loss: 0.05565598
+2021-11-16 18:41:51,404 - root - INFO -   Epoch 21/150	 Time: 1.792	 Loss: 0.05212510
+2021-11-16 18:41:53,148 - root - INFO -   Epoch 22/150	 Time: 1.744	 Loss: 0.04921182
+2021-11-16 18:41:54,871 - root - INFO -   Epoch 23/150	 Time: 1.722	 Loss: 0.04796688
+2021-11-16 18:41:56,574 - root - INFO -   Epoch 24/150	 Time: 1.703	 Loss: 0.04485248
+2021-11-16 18:41:59,792 - root - INFO -   Epoch 25/150	 Time: 3.219	 Loss: 0.04327352
+2021-11-16 18:42:02,543 - root - INFO -   Epoch 26/150	 Time: 2.751	 Loss: 0.03981091
+2021-11-16 18:42:04,421 - root - INFO -   Epoch 27/150	 Time: 1.877	 Loss: 0.04101890
+2021-11-16 18:42:06,241 - root - INFO -   Epoch 28/150	 Time: 1.820	 Loss: 0.03937350
+2021-11-16 18:42:08,006 - root - INFO -   Epoch 29/150	 Time: 1.765	 Loss: 0.03947296
+2021-11-16 18:42:09,723 - root - INFO -   Epoch 30/150	 Time: 1.716	 Loss: 0.03690043
+2021-11-16 18:42:11,466 - root - INFO -   Epoch 31/150	 Time: 1.743	 Loss: 0.03549120
+2021-11-16 18:42:13,159 - root - INFO -   Epoch 32/150	 Time: 1.693	 Loss: 0.03419450
+2021-11-16 18:42:17,990 - root - INFO -   Epoch 33/150	 Time: 4.830	 Loss: 0.03228799
+2021-11-16 18:42:19,743 - root - INFO -   Epoch 34/150	 Time: 1.753	 Loss: 0.03276381
+2021-11-16 18:42:21,440 - root - INFO -   Epoch 35/150	 Time: 1.697	 Loss: 0.03156315
+2021-11-16 18:42:23,170 - root - INFO -   Epoch 36/150	 Time: 1.730	 Loss: 0.03016131
+2021-11-16 18:42:25,067 - root - INFO -   Epoch 37/150	 Time: 1.896	 Loss: 0.02801094
+2021-11-16 18:42:27,022 - root - INFO -   Epoch 38/150	 Time: 1.955	 Loss: 0.02730713
+2021-11-16 18:42:28,923 - root - INFO -   Epoch 39/150	 Time: 1.901	 Loss: 0.02862177
+2021-11-16 18:42:33,418 - root - INFO -   Epoch 40/150	 Time: 4.495	 Loss: 0.02641646
+2021-11-16 18:42:35,177 - root - INFO -   Epoch 41/150	 Time: 1.759	 Loss: 0.02535571
+2021-11-16 18:42:37,047 - root - INFO -   Epoch 42/150	 Time: 1.869	 Loss: 0.02649610
+2021-11-16 18:42:38,789 - root - INFO -   Epoch 43/150	 Time: 1.742	 Loss: 0.02451380
+2021-11-16 18:42:40,523 - root - INFO -   Epoch 44/150	 Time: 1.734	 Loss: 0.02397033
+2021-11-16 18:42:42,247 - root - INFO -   Epoch 45/150	 Time: 1.724	 Loss: 0.02380169
+2021-11-16 18:42:44,140 - root - INFO -   Epoch 46/150	 Time: 1.893	 Loss: 0.02372668
+2021-11-16 18:42:45,942 - root - INFO -   Epoch 47/150	 Time: 1.802	 Loss: 0.02329866
+2021-11-16 18:42:50,855 - root - INFO -   Epoch 48/150	 Time: 4.913	 Loss: 0.02345480
+2021-11-16 18:42:52,921 - root - INFO -   Epoch 49/150	 Time: 2.066	 Loss: 0.02101218
+2021-11-16 18:42:54,732 - root - INFO -   Epoch 50/150	 Time: 1.811	 Loss: 0.02007822
+2021-11-16 18:42:54,732 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2021-11-16 18:42:56,495 - root - INFO -   Epoch 51/150	 Time: 1.763	 Loss: 0.02102636
+2021-11-16 18:42:58,268 - root - INFO -   Epoch 52/150	 Time: 1.773	 Loss: 0.02067179
+2021-11-16 18:43:00,109 - root - INFO -   Epoch 53/150	 Time: 1.840	 Loss: 0.02039014
+2021-11-16 18:43:01,919 - root - INFO -   Epoch 54/150	 Time: 1.810	 Loss: 0.01983968
+2021-11-16 18:43:06,092 - root - INFO -   Epoch 55/150	 Time: 4.173	 Loss: 0.02122985
+2021-11-16 18:43:07,971 - root - INFO -   Epoch 56/150	 Time: 1.879	 Loss: 0.02121788
+2021-11-16 18:43:09,782 - root - INFO -   Epoch 57/150	 Time: 1.811	 Loss: 0.02057711
+2021-11-16 18:43:11,634 - root - INFO -   Epoch 58/150	 Time: 1.852	 Loss: 0.02036477
+2021-11-16 18:43:13,527 - root - INFO -   Epoch 59/150	 Time: 1.892	 Loss: 0.02139602
+2021-11-16 18:43:15,407 - root - INFO -   Epoch 60/150	 Time: 1.880	 Loss: 0.02086978
+2021-11-16 18:43:17,268 - root - INFO -   Epoch 61/150	 Time: 1.861	 Loss: 0.02074634
+2021-11-16 18:43:21,801 - root - INFO -   Epoch 62/150	 Time: 4.533	 Loss: 0.02028877
+2021-11-16 18:43:23,935 - root - INFO -   Epoch 63/150	 Time: 2.134	 Loss: 0.01939810
+2021-11-16 18:43:25,676 - root - INFO -   Epoch 64/150	 Time: 1.741	 Loss: 0.02095770
+2021-11-16 18:43:27,456 - root - INFO -   Epoch 65/150	 Time: 1.779	 Loss: 0.01978500
+2021-11-16 18:43:29,345 - root - INFO -   Epoch 66/150	 Time: 1.889	 Loss: 0.02050736
+2021-11-16 18:43:31,271 - root - INFO -   Epoch 67/150	 Time: 1.926	 Loss: 0.02028563
+2021-11-16 18:43:33,224 - root - INFO -   Epoch 68/150	 Time: 1.952	 Loss: 0.02033080
+2021-11-16 18:43:37,465 - root - INFO -   Epoch 69/150	 Time: 4.242	 Loss: 0.01971955
+2021-11-16 18:43:39,339 - root - INFO -   Epoch 70/150	 Time: 1.874	 Loss: 0.01957638
+2021-11-16 18:43:41,222 - root - INFO -   Epoch 71/150	 Time: 1.883	 Loss: 0.02045675
+2021-11-16 18:43:42,939 - root - INFO -   Epoch 72/150	 Time: 1.717	 Loss: 0.01950574
+2021-11-16 18:43:44,749 - root - INFO -   Epoch 73/150	 Time: 1.809	 Loss: 0.01947513
+2021-11-16 18:43:46,519 - root - INFO -   Epoch 74/150	 Time: 1.770	 Loss: 0.01929700
+2021-11-16 18:43:48,229 - root - INFO -   Epoch 75/150	 Time: 1.710	 Loss: 0.02001633
+2021-11-16 18:43:49,934 - root - INFO -   Epoch 76/150	 Time: 1.705	 Loss: 0.02061197
+2021-11-16 18:43:54,595 - root - INFO -   Epoch 77/150	 Time: 4.661	 Loss: 0.01989819
+2021-11-16 18:43:56,551 - root - INFO -   Epoch 78/150	 Time: 1.955	 Loss: 0.01933205
+2021-11-16 18:43:58,458 - root - INFO -   Epoch 79/150	 Time: 1.907	 Loss: 0.01907315
+2021-11-16 18:44:00,380 - root - INFO -   Epoch 80/150	 Time: 1.922	 Loss: 0.01853061
+2021-11-16 18:44:02,229 - root - INFO -   Epoch 81/150	 Time: 1.848	 Loss: 0.01936279
+2021-11-16 18:44:04,000 - root - INFO -   Epoch 82/150	 Time: 1.771	 Loss: 0.01937976
+2021-11-16 18:44:05,718 - root - INFO -   Epoch 83/150	 Time: 1.718	 Loss: 0.01927372
+2021-11-16 18:44:10,157 - root - INFO -   Epoch 84/150	 Time: 4.439	 Loss: 0.01931657
+2021-11-16 18:44:11,987 - root - INFO -   Epoch 85/150	 Time: 1.830	 Loss: 0.01956394
+2021-11-16 18:44:13,711 - root - INFO -   Epoch 86/150	 Time: 1.724	 Loss: 0.01854451
+2021-11-16 18:44:15,417 - root - INFO -   Epoch 87/150	 Time: 1.705	 Loss: 0.01976021
+2021-11-16 18:44:17,229 - root - INFO -   Epoch 88/150	 Time: 1.812	 Loss: 0.01918460
+2021-11-16 18:44:19,125 - root - INFO -   Epoch 89/150	 Time: 1.896	 Loss: 0.01855083
+2021-11-16 18:44:20,920 - root - INFO -   Epoch 90/150	 Time: 1.795	 Loss: 0.01942015
+2021-11-16 18:44:24,781 - root - INFO -   Epoch 91/150	 Time: 3.861	 Loss: 0.01873173
+2021-11-16 18:44:27,238 - root - INFO -   Epoch 92/150	 Time: 2.456	 Loss: 0.01842132
+2021-11-16 18:44:29,303 - root - INFO -   Epoch 93/150	 Time: 2.065	 Loss: 0.01833896
+2021-11-16 18:44:31,303 - root - INFO -   Epoch 94/150	 Time: 1.999	 Loss: 0.01986105
+2021-11-16 18:44:33,360 - root - INFO -   Epoch 95/150	 Time: 2.057	 Loss: 0.01867485
+2021-11-16 18:44:35,106 - root - INFO -   Epoch 96/150	 Time: 1.745	 Loss: 0.01802288
+2021-11-16 18:44:36,890 - root - INFO -   Epoch 97/150	 Time: 1.784	 Loss: 0.01924264
+2021-11-16 18:44:39,696 - root - INFO -   Epoch 98/150	 Time: 2.806	 Loss: 0.01839287
+2021-11-16 18:44:42,934 - root - INFO -   Epoch 99/150	 Time: 3.237	 Loss: 0.01920389
+2021-11-16 18:44:44,825 - root - INFO -   Epoch 100/150	 Time: 1.891	 Loss: 0.01840132
+2021-11-16 18:44:46,770 - root - INFO -   Epoch 101/150	 Time: 1.945	 Loss: 0.01861382
+2021-11-16 18:44:48,578 - root - INFO -   Epoch 102/150	 Time: 1.808	 Loss: 0.01871390
+2021-11-16 18:44:50,478 - root - INFO -   Epoch 103/150	 Time: 1.899	 Loss: 0.01744649
+2021-11-16 18:44:52,166 - root - INFO -   Epoch 104/150	 Time: 1.688	 Loss: 0.01747273
+2021-11-16 18:44:54,029 - root - INFO -   Epoch 105/150	 Time: 1.863	 Loss: 0.01758933
+2021-11-16 18:44:58,714 - root - INFO -   Epoch 106/150	 Time: 4.684	 Loss: 0.01834183
+2021-11-16 18:45:00,616 - root - INFO -   Epoch 107/150	 Time: 1.902	 Loss: 0.01759182
+2021-11-16 18:45:02,469 - root - INFO -   Epoch 108/150	 Time: 1.852	 Loss: 0.01667598
+2021-11-16 18:45:04,328 - root - INFO -   Epoch 109/150	 Time: 1.859	 Loss: 0.01746404
+2021-11-16 18:45:06,059 - root - INFO -   Epoch 110/150	 Time: 1.730	 Loss: 0.01828573
+2021-11-16 18:45:07,764 - root - INFO -   Epoch 111/150	 Time: 1.705	 Loss: 0.01787058
+2021-11-16 18:45:09,509 - root - INFO -   Epoch 112/150	 Time: 1.744	 Loss: 0.01740288
+2021-11-16 18:45:13,620 - root - INFO -   Epoch 113/150	 Time: 4.111	 Loss: 0.01792400
+2021-11-16 18:45:15,740 - root - INFO -   Epoch 114/150	 Time: 2.119	 Loss: 0.01785162
+2021-11-16 18:45:17,565 - root - INFO -   Epoch 115/150	 Time: 1.825	 Loss: 0.01704043
+2021-11-16 18:45:19,392 - root - INFO -   Epoch 116/150	 Time: 1.827	 Loss: 0.01773820
+2021-11-16 18:45:21,115 - root - INFO -   Epoch 117/150	 Time: 1.723	 Loss: 0.01708986
+2021-11-16 18:45:22,966 - root - INFO -   Epoch 118/150	 Time: 1.851	 Loss: 0.01828182
+2021-11-16 18:45:24,692 - root - INFO -   Epoch 119/150	 Time: 1.726	 Loss: 0.01698881
+2021-11-16 18:45:26,509 - root - INFO -   Epoch 120/150	 Time: 1.816	 Loss: 0.01675564
+2021-11-16 18:45:31,034 - root - INFO -   Epoch 121/150	 Time: 4.525	 Loss: 0.01723838
+2021-11-16 18:45:32,757 - root - INFO -   Epoch 122/150	 Time: 1.723	 Loss: 0.01752926
+2021-11-16 18:45:34,476 - root - INFO -   Epoch 123/150	 Time: 1.719	 Loss: 0.01802959
+2021-11-16 18:45:36,200 - root - INFO -   Epoch 124/150	 Time: 1.724	 Loss: 0.01646822
+2021-11-16 18:45:37,988 - root - INFO -   Epoch 125/150	 Time: 1.788	 Loss: 0.01670755
+2021-11-16 18:45:39,863 - root - INFO -   Epoch 126/150	 Time: 1.875	 Loss: 0.01716602
+2021-11-16 18:45:41,589 - root - INFO -   Epoch 127/150	 Time: 1.726	 Loss: 0.01707548
+2021-11-16 18:45:46,443 - root - INFO -   Epoch 128/150	 Time: 4.854	 Loss: 0.01694369
+2021-11-16 18:45:48,238 - root - INFO -   Epoch 129/150	 Time: 1.794	 Loss: 0.01687141
+2021-11-16 18:45:50,120 - root - INFO -   Epoch 130/150	 Time: 1.882	 Loss: 0.01685068
+2021-11-16 18:45:51,952 - root - INFO -   Epoch 131/150	 Time: 1.832	 Loss: 0.01719189
+2021-11-16 18:45:53,927 - root - INFO -   Epoch 132/150	 Time: 1.974	 Loss: 0.01705812
+2021-11-16 18:45:55,629 - root - INFO -   Epoch 133/150	 Time: 1.702	 Loss: 0.01642208
+2021-11-16 18:45:57,336 - root - INFO -   Epoch 134/150	 Time: 1.706	 Loss: 0.01647033
+2021-11-16 18:46:00,893 - root - INFO -   Epoch 135/150	 Time: 3.558	 Loss: 0.01614707
+2021-11-16 18:46:04,017 - root - INFO -   Epoch 136/150	 Time: 3.123	 Loss: 0.01542475
+2021-11-16 18:46:05,855 - root - INFO -   Epoch 137/150	 Time: 1.838	 Loss: 0.01642454
+2021-11-16 18:46:07,779 - root - INFO -   Epoch 138/150	 Time: 1.924	 Loss: 0.01616416
+2021-11-16 18:46:09,578 - root - INFO -   Epoch 139/150	 Time: 1.799	 Loss: 0.01626707
+2021-11-16 18:46:11,291 - root - INFO -   Epoch 140/150	 Time: 1.713	 Loss: 0.01640189
+2021-11-16 18:46:13,009 - root - INFO -   Epoch 141/150	 Time: 1.718	 Loss: 0.01702445
+2021-11-16 18:46:14,734 - root - INFO -   Epoch 142/150	 Time: 1.725	 Loss: 0.01627264
+2021-11-16 18:46:19,330 - root - INFO -   Epoch 143/150	 Time: 4.595	 Loss: 0.01627293
+2021-11-16 18:46:21,154 - root - INFO -   Epoch 144/150	 Time: 1.824	 Loss: 0.01533396
+2021-11-16 18:46:22,939 - root - INFO -   Epoch 145/150	 Time: 1.785	 Loss: 0.01565283
+2021-11-16 18:46:24,726 - root - INFO -   Epoch 146/150	 Time: 1.786	 Loss: 0.01679872
+2021-11-16 18:46:26,458 - root - INFO -   Epoch 147/150	 Time: 1.732	 Loss: 0.01716072
+2021-11-16 18:46:28,133 - root - INFO -   Epoch 148/150	 Time: 1.675	 Loss: 0.01644502
+2021-11-16 18:46:29,855 - root - INFO -   Epoch 149/150	 Time: 1.722	 Loss: 0.01584953
+2021-11-16 18:46:34,153 - root - INFO -   Epoch 150/150	 Time: 4.297	 Loss: 0.01693692
+2021-11-16 18:46:34,153 - root - INFO - Training time: 329.532
+2021-11-16 18:46:34,153 - root - INFO - Finished training.
+2021-11-16 18:46:34,154 - root - INFO - Starting testing...
+2021-11-16 18:46:36,942 - root - INFO - Testing time: 2.788
+2021-11-16 18:46:36,949 - root - INFO - Test set AUC: 87.39%
+2021-11-16 18:46:36,949 - root - INFO - Finished testing.
